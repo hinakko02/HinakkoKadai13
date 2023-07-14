@@ -11,7 +11,6 @@
         <!--Items Table View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <viewController id="BYZ-38-t0r" customClass="ItemsTableViewController" customModule="HinakkoKadai13" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
@@ -59,8 +58,9 @@
                     </view>
                     <navigationItem key="navigationItem" id="P2L-yZ-7ia"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="881.67938931297704" y="-231.69014084507043"/>
+            <point key="canvasLocation" x="990" y="4"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="SJs-uf-7qx">
